@@ -22,6 +22,9 @@ Make sure to create a Jupyter notebook file with the path variable that looks li
 In the league_data_analysis.ipynb file, it uses the stored path variable to save all the relevant files
 
 Also make sure that your path has the following folders:
+
 ![image](https://user-images.githubusercontent.com/101044075/213380610-5c5a652a-338d-45ab-8d4d-7488497775df.png)
+
+And that you transfer the following .csv files to your desired path: EUmatch.csv, KRmatch.csv, NAmatch.csv
 
 Once that is settled you can run the league_data_analysis.ipynb file
